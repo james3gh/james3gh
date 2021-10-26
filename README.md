@@ -38,32 +38,28 @@ Myself James, sophomore at IITBHU, Varanasi. I'm a web developer. Currently, lea
 <br/>
 
 <a href="https://github.com/james3gh/Lamoda-website-template">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=Lamoda-website-template" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=Lamoda-website-template" />
 </a> 
 <a href="https://github.com/james3gh/Personal-website">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=Personal-website" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=Personal-website" /> 
 </a>
 <a href="https://github.com/james3gh/To-do-list-project">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=To-do-list-project" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=To-do-list-project" />
 </a>
 <a href="https://github.com/james3gh/Problems-n-algorithms">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=Problems-n-algorithms" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=Problems-n-algorithms" /> 
 </a>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/>
 
 ## :-) CONNECT WITH ME 
 #### *Want to know more about me ???* 👀
 
 <br/>
 
- [<img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/) &nbsp; 
- [<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/) &nbsp; 
- [<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/feed/) &nbsp; 
- [<img align="center" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/>](https://www.quora.com/) &nbsp; 
- [<img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>](https://codeforces.com/#) &nbsp; 
- [<img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/>](https://www.codechef.com/#) &nbsp; 
- [<img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/channels/@me) &nbsp; 
+ [<img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/) &nbsp;   [<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/) &nbsp;  [<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/feed/) &nbsp;  [<img align="center" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/>](https://www.quora.com/) &nbsp; 
+
+[<img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>](https://codeforces.com/#) &nbsp;  [<img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/>](https://www.codechef.com/#) &nbsp;  [<img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/channels/@me) &nbsp; 
  
 <br/>
 
