@@ -37,16 +37,16 @@ Myself James, sophomore at IITBHU, Varanasi. I'm a web developer. Currently, lea
 
 <br/>
 
-<a href="https://github.com/james3gh/Lamoda-website-template">
+<a href="https://github.com/james3gh/Lamoda-website-template" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=Lamoda-website-template" />
 </a> 
-<a href="https://github.com/james3gh/Personal-website">
+<a href="https://github.com/james3gh/Personal-website" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=Personal-website" /> 
 </a>
-<a href="https://github.com/james3gh/To-do-list-project">
+<a href="https://github.com/james3gh/To-do-list-project" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=To-do-list-project" />
 </a>
-<a href="https://github.com/james3gh/Problems-n-algorithms">
+<a href="https://github.com/james3gh/Problems-n-algorithms" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=Problems-n-algorithms" /> 
 </a>
 
@@ -64,3 +64,4 @@ Myself James, sophomore at IITBHU, Varanasi. I'm a web developer. Currently, lea
 <br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=james3gh&label=Profile%20views&color=0e75b6&style=flat" alt="james3gh" /></p>
+
