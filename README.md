@@ -5,14 +5,11 @@
 
 ## 🚀 About Me 
 
-Myself James, sophomore at IITBHU, Varanasi. I'm a web developer. Currently, learning :
+Myself James, student at IITBHU, Varanasi. I'm a MERN stack developer. Currently, learning :
 
+1️⃣ Algorithms
 
-1️⃣ Frontend frameworks 
-
-2️⃣ Algorithms
-
-3️⃣ Languages like Java 
+2️⃣ Languages like Java 
 
 <br/>
 
@@ -38,10 +35,10 @@ Myself James, sophomore at IITBHU, Varanasi. I'm a web developer. Currently, lea
 <br/>
 
 <a href="https://github.com/james3gh/Stack-overflow" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=Stack-overflow" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=StackOverflow-project" /> 
 </a>
-<a href="https://github.com/james3gh/Lamoda-website-template" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=Lamoda-website-template" />
+<a href="https://github.com/james3gh/ReactProject-MobileStore" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=ReactProject-MobileStore" />
 </a> 
 <a href="https://github.com/james3gh/Personal-website" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=Personal-website" /> 
@@ -53,7 +50,7 @@ Myself James, sophomore at IITBHU, Varanasi. I'm a web developer. Currently, lea
 <br/><br/>
 
 ## :-) CONNECT WITH ME 
-#### *Want to know more about me ???* 👀
+#### *Want to know more about me ???* 
 
 <br/>
 
