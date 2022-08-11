@@ -34,7 +34,7 @@ Myself James, student at IITBHU, Varanasi. I'm a MERN stack developer. Currently
 
 <br/>
 
-<a href="https://github.com/james3gh/Stack-overflow" target="_blank">
+<a href="https://github.com/james3gh/StackOverflow-project" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=StackOverflow-project" /> 
 </a>
 <a href="https://github.com/james3gh/ReactProject-MobileStore" target="_blank">
