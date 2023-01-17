@@ -24,9 +24,10 @@ Myself James, student at IITBHU, Varanasi. I'm a MERN stack developer. Currently
 
 ## 📊 STATS 
 <br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james3gh" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=james3gh" alt="varunkt001" /></p> 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=james3gh" alt="varunkt001" /></p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=james3gh&showicons=true&theme=radical) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=james3gh&theme=gotham) <br />
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james3gh&theme=gotham&include_all_commits=true&count_private=true" /></p> 
 
 <br/>
 
