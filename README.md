@@ -31,25 +31,6 @@ Myself James, student at IITBHU, Varanasi. I'm a MERN stack developer. Currently
 
 <br/>
 
-## 🎯 PROJECTS 
-
-<br/>
-
-<a href="https://github.com/james3gh/StackOverflow-project" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=StackOverflow-project" /> 
-</a>
-<a href="https://github.com/james3gh/ReactProject-MobileStore" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=ReactProject-MobileStore" />
-</a> 
-<a href="https://github.com/james3gh/Personal-website" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=Personal-website" /> 
-</a>
-<a href="https://github.com/james3gh/Problems-n-algorithms" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=james3gh&repo=Problems-n-algorithms" /> 
-</a>
-
-<br/><br/>
-
 ## :-) CONNECT WITH ME 
 #### *Want to know more about me ???* 
 
