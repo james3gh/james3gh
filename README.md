@@ -3,7 +3,7 @@
 
 ## 🚀 About Me 
 
-Myself James, student of IIT(BHU), Varanasi. I'm a MERN stack developer. I like contributing to Open-source and learn about new technologies.
+Myself James, student of IIT(BHU), Varanasi. I love working on new technologies and building cool things.
 <br/> <br/> 
 <a align="center" href="https://github.com/james3gh">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=james3gh&theme=gotham" />
